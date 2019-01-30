@@ -1,4 +1,4 @@
 <?php
 //aaa
-echo 'hello world!';
+echo 'hello world! 哈哈';
 
